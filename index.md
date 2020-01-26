@@ -14,14 +14,14 @@
 </div>
 
 ---
- I am a second-year master student in [LIESMARS](https://www.lmars.whu.edu.cn/) at Wuhan University, China. Before that, I received my B.Eng degree in [Geomatics Engineering](https://en.wikipedia.org/wiki/Geomatics) from Wuhan University. My research interests include machine learning and its application in structured deep models (e.g. mining graph-structured data, spatiotemporal time series). 
+&ensp;&ensp;I am a second-year master student in [LIESMARS](https://www.lmars.whu.edu.cn/) at Wuhan University, China. Before that, I received my B.Eng degree in [Geomatics Engineering](https://en.wikipedia.org/wiki/Geomatics) from Wuhan University. My research interests include machine learning and its application in structured deep models (e.g. mining graph-structured data, spatiotemporal time series). 
 
 ---
 
 ## Education
-&ensp;&ensp;Sept. 2018 ~ Present        Master student at Wuhan University  
-&ensp;&ensp;Sept. 2017 ~ Apr. 2018      Visiting student at York University, Canada  
-&ensp;&ensp;Sept. 2014 ~ Jun. 2018      Undergraduate student at Wuhan University
+&ensp;&ensp;Sept. 2018 ~ Present&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master student at Wuhan University  
+&ensp;&ensp;Sept. 2017 ~ Apr. 2018&ensp;&ensp;&ensp;&ensp;Visiting student at York University, Canada  
+&ensp;&ensp;Sept. 2014 ~ Jun. 2018&ensp;&ensp;&ensp;&ensp;Undergraduate student at Wuhan University
 
 ## Publication
 - Na Zhang, Xuefeng Guan, Jun Cao, **Xinglei Wang**, Huayi Wu. Wavelet-HST: A Wavelet-Based Higher-Order Spatio-Temporal Framework for Urban Traffic Speed Prediction. *IEEE Access*, 2019.[[Paper Link]](https://ieeexplore.ieee.org/abstract/document/8809691) 
