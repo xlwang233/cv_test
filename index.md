@@ -1,8 +1,33 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Xinglei Wang</h1>
+      <p><b>Master Student</b></p>
+      <p><b>Wuhan University</b></p>
+      <p><b>Email：xlwang1112@whu.edu.cn</b></p>
+      <p><b>Address：129 Luoyu Road, Wuhan, China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/xlwang.jpg" width="100%">      % photo
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/xlwang233/xlwang233.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
+ I am a second-year master student in LIESMARS at Wuhan University, China. Before that, I received my B.Eng degree in [Geomatics Engineering](https://en.wikipedia.org/wiki/Geomatics) from Wuhan University. My research interests include machine learning and its application in structured deep models (e.g. mining graph-structured data, spatiotemporal time series). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+
+### Education
+Sept. 2018 ~ Present      Master student in Cartography and Geo-Information Engineering at Wuhan University, China
+Sept. 2017 ~ Apr. 2018    Visiting student at York University, Canada
+Sept. 2014 ~ Jun. 2018    Undergraduate student in Geomatics Engineering at Wuhan University, China
+
+### Publication
+Na Zhang, Xuefeng Guan, Jun Cao, *Xinglei Wang*, Huayi Wu. Wavelet-HST: A Wavelet-Based Higher-Order Spatio-Temporal Framework for Urban Traffic Speed Prediction. IEEE Access, 2019
+*Xinglei Wang*, Xuefeng Guan, Jun Cao, Na Zhang, Huayi Wu. STSeq2seq: Spatial-Temporal Sequence to Sequence Model for Multi-Step Traffic Forecasting. Under review.
 
 ### Markdown
 
