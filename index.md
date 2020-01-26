@@ -19,9 +19,9 @@
 ---
 
 ## Education
-&ensp;&ensp;Sept. 2018 ~ Present&ensp;&ensp;&ensp;&ensp;Master student in Cartography and Geo-Information Engineering at Wuhan University 
+&ensp;&ensp;Sept. 2018 ~ Present&ensp;&ensp;&ensp;&ensp;Master student at Wuhan University  
 &ensp;&ensp;Sept. 2017 ~ Apr. 2018&ensp;&ensp;Visiting student at York University, Canada  
-&ensp;ensp;Sept. 2014 ~ Jun. 2018&ensp;&ensp;Undergraduate student in Geomatics Engineering at Wuhan University
+&ensp;ensp;Sept. 2014 ~ Jun. 2018&ensp;&ensp;Undergraduate student at Wuhan University
 
 ## Publication
 - Na Zhang, Xuefeng Guan, Jun Cao, **Xinglei Wang**, Huayi Wu. Wavelet-HST: A Wavelet-Based Higher-Order Spatio-Temporal Framework for Urban Traffic Speed Prediction. *IEEE Access*, 2019.[[Paper Link]](https://ieeexplore.ieee.org/abstract/document/8809691) 
